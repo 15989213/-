@@ -1,0 +1,67 @@
+{
+  "spec": 2,
+  "metadata": {
+    "name": "锦木千束",
+    "tips": "来到方块世界的小千束会发生怎样的故事呢",
+    "license": {
+      "type": "CC BY-NC-SA 4.0"
+    },
+    "authors": [
+      {
+        "name": "AMOAQ",
+        "role": "模型",
+        "avatar": "avatar/AMOAQ.png",
+        "contact": {
+        },
+        "comment": ""
+      }
+    ],
+    "link": {
+      "home": "https://space.bilibili.com/384774225?spm_id_from=333.1007.0.0",
+      "donate": "https://afdian.com/a/Bischofia-javanica00"
+    }
+  },
+  "properties": {
+    "extra_animation": {
+      "kaicheche": "开车车",
+      "太好啦~": "太好啦~",
+      "花园鳗": "花园鳗",
+      "泷奈~泷奈~": "泷奈~泷奈~嘿嘿嘿",
+      "bui~": "bui~",
+      "chinanako~": "chinanako~",
+      "坐沙发": "坐沙发",
+      "yaoayao": "摇啊摇",
+      "huangtuitui":"晃腿腿",
+      "shuijiao":"睡觉",
+      "happynewyear":"新年快乐",
+      "miao":"喵~",
+      "sit2":"坐",
+      "keepsit":"长久坐",
+      "发型":"换发型",
+      "黑丝":"黑丝",
+      "常服":"常服",
+      "外套":"外套",
+      "礼服":"礼服",
+      "帽子":"帽子"
+    },
+    "free": false
+  },
+  "files": {
+    "player": {
+      "model": {
+        "main": "models/main.json",
+        "arm": "models/arm.json"
+      },
+      "animation": {
+        "main": "animations/main.animation.json",
+        "extra": "animations/extra.animation.json",
+        "arm": "animations/arm.animation.json",
+        "tac": "animations/tac.animation.json",
+        "carryon": "animations/carryon.animation.json"
+      },
+      "texture": [
+        "textures/skin.png"
+      ]
+    }
+  }
+}
